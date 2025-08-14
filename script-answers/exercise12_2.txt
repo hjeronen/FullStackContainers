@@ -1,0 +1,19 @@
+Script started on Thu Aug 14 15:22:40 2025
+Restored session: Thu Aug 14 15:21:25 EEST 2025
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://MacBookPro.home/Users/hjeronen/Opiskelu/FullstackOpen/FullStackContainers[0m[27m[24m[J[1mhjeronen@MacBookPro FullStackContainers[0m > [K[?2004hddocker container run -it ubuntu bash[?2004l
+Unable to find image 'ubuntu:latest' locally
+latest: Pulling from library/ubuntu
+
+[1A[2K49a8ca9a328e: Pulling fs layer [1B[1A[2K49a8ca9a328e: Downloading  299.1kB/28.86MB[1B[1A[2K49a8ca9a328e: Downloading   3.24MB/28.86MB[1B[1A[2K49a8ca9a328e: Downloading  8.274MB/28.86MB[1B[1A[2K49a8ca9a328e: Downloading  12.71MB/28.86MB[1B[1A[2K49a8ca9a328e: Downloading  17.43MB/28.86MB[1B[1A[2K49a8ca9a328e: Downloading  23.92MB/28.86MB[1B[1A[2K49a8ca9a328e: Downloading  26.59MB/28.86MB[1B[1A[2K49a8ca9a328e: Verifying Checksum [1B[1A[2K49a8ca9a328e: Download complete [1B[1A[2K49a8ca9a328e: Extracting  294.9kB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  5.603MB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  8.552MB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  13.27MB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  21.82MB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  24.18MB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  26.84MB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  28.31MB/28.86MB[1B[1A[2K49a8ca9a328e: Extracting  28.86MB/28.86MB[1B[1A[2K49a8ca9a328e: Pull complete [1BDigest: sha256:7c06e91f61fa88c08cc74f7e1b7c69ae24910d745357e0dfe1d2c0322aaf20f9
+Status: Downloaded newer image for ubuntu:latest
+[?2004h]0;root@355fb4603483: /root@355fb4603483:/# mkdir /usr/src/app
+[?2004l[?2004h]0;root@355fb4603483: /root@355fb4603483:/# touch /usr/src/app/index.js
+[?2004l[?2004h]0;root@355fb4603483: /root@355fb4603483:/# [Kexit
+[?2004lexit
+[1m[7m%[27m[1m[0m                                                                                               ]7;file://MacBookPro.home/Users/hjeronen/Opiskelu/FullstackOpen/FullStackContainers[0m[27m[24m[J[1mhjeronen@MacBookPro FullStackContainers[0m > [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Thu Aug 14 15:25:24 2025
